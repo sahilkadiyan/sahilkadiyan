@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Kadiyan</h1>
 <h3 align="center">I'm a programmer working to better understand how can a piece of code made the life of humans so easy !!! and aiming for implementing dsa in real life . I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. I’m seeking opportunities that will allow me to develop and promote technologies that benefit humans.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkadiyan&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkadiyan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkadiyan" alt="sahilkadiyan" /></a> </p>
